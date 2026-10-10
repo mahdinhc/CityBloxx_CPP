@@ -1,0 +1,33 @@
+# materials for top_3
+
+newmtl top_3_mat0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+illum 0
+map_Kd textures/top_3_0.png
+#@blend REPLACE
+#@alpha_threshold 0
+#@depth_test true
+#@depth_write true
+#@cull BACK
+#@winding CCW
+#@texture_function MODULATE
+#@clamp false
+
+newmtl top_3_mat1
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+illum 0
+map_Kd textures/top_3_1.png
+#@blend REPLACE
+#@alpha_threshold 0
+#@depth_test true
+#@depth_write true
+#@cull BACK
+#@winding CCW
+#@texture_function MODULATE
+#@clamp false

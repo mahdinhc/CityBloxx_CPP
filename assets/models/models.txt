@@ -1,0 +1,20 @@
+# model-id <TAB> obj path relative to assets/models/
+7	crane_hook_static.obj
+8	crane_hook.obj
+9	ground.obj
+10	floor_1.obj
+11	floor_2.obj
+12	floor_3.obj
+13	floor_4.obj
+20	falling_1.obj
+21	falling_2.obj
+22	falling_3.obj
+23	falling_4.obj
+30	top_1.obj
+31	top_2.obj
+32	top_3.obj
+33	top_4.obj
+40	top_bonus_1.obj
+41	top_bonus_2.obj
+42	top_bonus_3.obj
+43	top_bonus_4.obj

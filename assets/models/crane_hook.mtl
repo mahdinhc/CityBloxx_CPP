@@ -1,0 +1,17 @@
+# materials for crane_hook
+
+newmtl crane_hook_mat0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+illum 0
+map_Kd textures/crane_hook_0.png
+#@blend ALPHA
+#@alpha_threshold 0
+#@depth_test true
+#@depth_write true
+#@cull BACK
+#@winding CCW
+#@texture_function MODULATE
+#@clamp false
